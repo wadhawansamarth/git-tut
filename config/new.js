@@ -1,1 +1,1 @@
-console.log("This is new js version 1");
+console.log("This is new js version 2");
